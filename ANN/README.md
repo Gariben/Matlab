@@ -1,12 +1,12 @@
 # Octave ANN
 ### Layer.m
 args: 
-  l, Layer Number (only used in print statements)
-  s, Number of Neurons
-  W, weight matrix (S x R)
-  P, Point matrix (R x 1)
-  B, bias matrix (S x 1)
-  f, Transform Function
+  * **l**, Layer Number (only used in print statements)
+  * **s**, Number of Neurons
+  * **W**, weight matrix (S x R)
+  * **P**, Point matrix (R x 1)
+  * **B**, bias matrix (S x 1)
+  * **f**, Transform Function
   
   (where S is the number of neurons, and R is the number of points)
   
