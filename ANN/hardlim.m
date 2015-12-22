@@ -3,7 +3,7 @@ fprintf('hardlim\n');
 fprintf('Input:\t');
 disp(x);
 fprintf('Output:\t');
-if x > 0
+if x >= 0
 	o = 1;
 	disp(o);
 else
